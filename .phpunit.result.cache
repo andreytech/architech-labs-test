@@ -1,0 +1,1 @@
+{"version":1,"defects":{"BasketTest::testTotal":4,"Acme\\WidgetCo\\Tests\\BasketTest::testTotal":3},"times":{"BasketTest::testTotal":0.002,"Acme\\WidgetCo\\Tests\\BasketTest::testTotal":0.002}}
